@@ -1,4 +1,5 @@
 Для начала представим все замеры для девайса: NVIDIA GeForce RTX 4050 Laptop GPU
+
 |Tile | Time(Realization 2) |Time(Realization3 )|
 | —- | —- |—-|
 | 4 | 90.216384 | 242.083840|

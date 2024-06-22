@@ -1,4 +1,5 @@
 Для начала представим все замеры для девайса: NVIDIA GeForce RTX 4050 Laptop GPU
+Замеры при перемножении матриц 2048x2048
 | Tile | Time (Realization 2) | Time (Realization 3) |
 | --- | --- | --- |
 | 4 | 90.216384 | 242.083840 |
@@ -14,3 +15,9 @@
 | Host | Time (Realization 1) | Time (Realization 2) | Time (Realization 3) |
 | --- | --- | --- | --- |
 | 5195.21 | 31.924224 | 20.150272 |6.447008|
+![image](https://github.com/Ence1adus/Digital-image-processing/assets/144054132/41219132-117c-495d-b700-49c0bf22e5f3)
+Также на данном девайсе были проведены замеры для маленьний матрицы 13x11 * 11x13
+| Host | Time (Realization 1) | Time (Realization 2) | Time (Realization 3) |
+| --- | --- | --- | --- |
+| 0.9058 | 0.010240 | 0.026784 |0.026784|
+![image](https://github.com/Ence1adus/Digital-image-processing/assets/144054132/7b12e496-8172-4dc1-91ab-86de113414de)

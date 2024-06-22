@@ -15,7 +15,9 @@
 | Host | Time (Realization 1) | Time (Realization 2) | Time (Realization 3) |
 | --- | --- | --- | --- |
 | 5195.21 | 31.924224 | 20.150272 |6.447008|
+
 ![image](https://github.com/Ence1adus/Digital-image-processing/assets/144054132/41219132-117c-495d-b700-49c0bf22e5f3)
+
 Также на данном девайсе были проведены замеры для маленьний матрицы 13x11 * 11x13
 | Host | Time (Realization 1) | Time (Realization 2) | Time (Realization 3) |
 | --- | --- | --- | --- |

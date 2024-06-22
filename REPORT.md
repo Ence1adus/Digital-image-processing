@@ -21,6 +21,6 @@
 Также на данном девайсе были проведены замеры для маленьний матрицы 13x11 * 11x13
 | Host | Time (Realization 1) | Time (Realization 2) | Time (Realization 3) |
 | --- | --- | --- | --- |
-| 0.9058 | 0.010240 | 0.026784 |0.026784|
+| 0.9058 | 0.010240 | 0.026784 |0.027234|
 
 ![image](https://github.com/Ence1adus/Digital-image-processing/assets/144054132/7b12e496-8172-4dc1-91ab-86de113414de)

@@ -8,3 +8,5 @@
 | 64 | - | 6.447008 |
 | 128 | - | - |
 
+![image](https://github.com/Ence1adus/Digital-image-processing/assets/144054132/8f36f36e-98fc-4f56-abf7-e11d2cb0fc6f)
+
